@@ -1,0 +1,6 @@
+{
+  "name": "Kuis & Flashcard Otomatis AI",
+  "description": "Generator kuis pilihan ganda otomatis dan flashcard active recall dari materi pelajaran dengan Gemini AI dan UI interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
